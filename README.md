@@ -1,8 +1,6 @@
 # Zomato-Restaurant-Analysis
 Python-based exploratory data analysis of Zomato restaurant data, ratings, locations, and pricing.
 
-# Zomato Restaurant Analysis
-
 ## Project Overview
 
 This project analyzes Zomato restaurant data using Python to understand restaurant ratings, restaurant types, geographical distribution, pricing, and customer preferences. Data cleaning, exploratory data analysis (EDA), statistical analysis, and visualization are used to identify meaningful patterns and insights.
@@ -43,7 +41,7 @@ This project analyzes Zomato restaurant data using Python to understand restaura
 
 ## Tools
 
-Jupyter Notebook and Python data analysis libraries.
+Google Collab and Python data analysis libraries.
 
 ## Author
 
