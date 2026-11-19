@@ -4,6 +4,7 @@
 
 This project analyzes Zomato restaurant data using Python to understand restaurant ratings, restaurant types, geographical distribution, pricing, and customer preferences. Data cleaning, exploratory data analysis (EDA), statistical analysis, and visualization are used to identify meaningful patterns and insights.
 ## Objectives
+
 1.Analyze restaurant ratings and customer votes.
 2.Identify the most popular cuisines.
 3.Explore restaurant distribution across locations.
